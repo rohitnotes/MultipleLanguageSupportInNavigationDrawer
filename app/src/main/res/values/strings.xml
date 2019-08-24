@@ -1,0 +1,25 @@
+<resources>
+
+    // For Common all language
+    <string name="text_hindi" translatable="false">हिंदी</string>
+    <string name="text_english" translatable="false">English</string>
+    <string name="text_spanish" translatable="false">"Español"</string>
+
+    // For English language
+    <string name="app_name">Multi Language App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="welcome">Welcome</string>
+    <string name="nav_header_title">Rohit Yadav</string>
+    <string name="nav_header_subtitle">Android Developer</string>
+
+    <!-- Navigation Menu-->
+    <string name="title_import">Import</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_slideshow">Slideshow</string>
+    <string name="title_tools">Tools</string>
+    <string name="title_communication">Communicate</string>
+    <string name="title_share">Share</string>
+    <string name="title_send">Send</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // For Hindi language
+    <string name="app_name">बहु भाषा ऐप</string>
+    <string name="navigation_drawer_open">नेविगेशन ड्रावर को खोले</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रावर को बंद करें </string>
+    <string name="welcome">स्वागतम</string>
+    <string name="nav_header_title">रोहित यादव</string>
+    <string name="nav_header_subtitle">एंड्रॉयड डेवलपर</string>
+
+    <!-- Navigation Menu-->
+    <string name="title_import">आयात</string>
+    <string name="title_gallery">गैलरी</string>
+    <string name="title_slideshow">स्लाइड शो</string>
+    <string name="title_tools">उपकरण</string>
+    <string name="title_communication">संवाद</string>
+    <string name="title_share">शेयर</string>
+    <string name="title_send">भेजना</string>
+</resources>

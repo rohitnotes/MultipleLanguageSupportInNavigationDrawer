@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // For Spanish language
+    <string name="app_name">Aplicación multi idioma</string>
+    <string name="navigation_drawer_open">Cajón de navegación abierto.</string>
+    <string name="navigation_drawer_close">Cerrar el cajon de navegacion</string>
+    <string name="welcome">Bienvenida</string>
+    <string name="nav_header_title">Rohit Yadav</string>
+    <string name="nav_header_subtitle">Desarrollador de Android</string>
+
+    <!-- Navigation Menu-->
+    <string name="title_import">Importar</string>
+    <string name="title_gallery">Galería</string>
+    <string name="title_slideshow">Diapositivas</string>
+    <string name="title_tools">Herramientas</string>
+    <string name="title_communication">Comunicar</string>
+    <string name="title_share">Compartir</string>
+    <string name="title_send">Enviar</string>
+</resources>
